@@ -20,7 +20,7 @@ export default function About() {
                                 className="object-cover w-full h-full"
                             />
                         </div>
-                        <div className=" absolute -bottom-12 -right-12 aspect-[4/3] w-4/5 rounded-lg overflow-hidden shadow-xl bg-white">
+                        <div className="hidden md:block absolute -bottom-12 -right-12 aspect-[4/3] w-4/5 rounded-lg overflow-hidden shadow-xl bg-white">
                             <img
                                 src="/about-2.jpg"
                                 alt="Team collaboration at Seastrel"
